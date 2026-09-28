@@ -573,7 +573,7 @@ The project demonstrates how raw operational data can be transformed into meanin
 
 ## 👤 Author
 
-**Prashant Yadav**
+**Sharib khan**
 
 Data Analytics / Data Science Project
 
